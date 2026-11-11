@@ -1,0 +1,30 @@
+HOMECARE CONNECT - HTML, CSS Y JAVASCRIPT
+
+ESTRUCTURA
+- index.html: página principal y punto de entrada.
+- app.css: estilos, colores y diseño adaptable.
+- app.js: navegación, registro, inicio de sesión, perfiles, ofertas y solicitudes.
+- assets/: recursos gráficos opcionales.
+
+CÓMO ABRIR
+1. Extrae el ZIP completo.
+2. Abre la carpeta HomeCareConnect_HTML/homecare_db.
+3. Haz doble clic en index.html o ábrelo con Chrome/Edge.
+4. Para editar, abre la carpeta homecare_db en Visual Studio Code.
+
+FUNCIONES INCLUIDAS
+- Página de inicio HomeCare Connect.
+- Elección entre Ama de llaves y Contratador.
+- Registro e inicio de sesión de demostración para ambos roles.
+- Perfil editable distinto según el tipo de cuenta.
+- Amas de llaves: experiencia, habilidades, ubicación, disponibilidad y referencias.
+- Contratadores: información del hogar, ubicación, necesidades, horario y requisitos.
+- Contratadores: publicar, consultar y eliminar ofertas laborales.
+- Amas de llaves: buscar ofertas y enviar solicitudes.
+- Contratadores: revisar solicitudes recibidas.
+- Búsqueda de perfiles y empleos.
+- Datos guardados en localStorage y sesión en sessionStorage.
+
+IMPORTANTE SOBRE ESTA VERSIÓN
+Esta es una demostración frontend local. Los datos se guardan en el navegador y dispositivo donde se utiliza el sitio; no se comparten entre usuarios o dispositivos. Las contraseñas se almacenan localmente sin protección de producción. No uses contraseñas reales ni información sensible.
+Para publicar HomeCare Connect en internet y permitir que distintas personas interactúen, se necesita un backend o base de datos en la nube, autenticación segura, autorización por roles y políticas de privacidad. Los datos de contacto solo deben mostrarse con consentimiento de cada usuario.
